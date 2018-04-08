@@ -1,11 +1,11 @@
 import praw ##wrapper used to communicate with reddit
 import os ##requried for wal and wget
 
-reddit = praw.Reddit(client_id='gyynD-IO71H_kQ',                    ##Check https://praw.readthedocs.io/en/latest/getting_started/quick_start.html for info on how to obtain these values
-                     client_secret='-8N3DVyG5V5BkDRCLxiUTv2Az2k',
-                     password='M0nkeyboy97',
-                     user_agent='test script for u/reocha97',
-                     username='reocha97')
+reddit = praw.Reddit(client_id='',                    ##Check https://praw.readthedocs.io/en/latest/getting_started/quick_start.html for info on how to obtain these values
+                     client_secret='',
+                     password='',
+                     user_agent='',
+                     username='')
 
 subreddit = reddit.subreddit('wallpapers') ##subbredit to use
 
