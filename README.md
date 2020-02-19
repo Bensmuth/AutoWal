@@ -1,5 +1,5 @@
 # AutoWal
-A really awesome theme changer that uses reddit.com/r/wallpapers top post of the day as wal's image
+A really basic theme changer that uses reddit.com/r/wallpapers top post of the day as wal's image
 ## Requirements
 python3
 
